@@ -2,9 +2,11 @@
 This project is being developed and maintained by Bahcesehir University Engineering students.
 
 # Rules
-Let's set up some basic rules for our development cycle of this project.
+Let's set up a basic rules for our development cycle of this project:
 
-We are all adults here. That's why I didn't think setting up strict rules would make sense. So let's pay respect to each other, work as a team and don't forget our responsibilities.
+- Write weekly descriptions to README.md file of your repo
+
+We are all adults here. That's why I didn't think setting up other strict rules would make sense. So let's pay respect to each other, work as a team and don't forget our responsibilities.
    
 # Week 1 - ToDo
 Welcome to the Echo Cell project. This is our first week.🥳
